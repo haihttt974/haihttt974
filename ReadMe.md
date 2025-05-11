@@ -35,7 +35,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### 👁‍🗨 Visitor Count
-<p align="center">Visitors</p>
 <div align="center">
   <img src="https://profile-counter.glitch.me/haihttt974/count.svg?"  />
 </div>
