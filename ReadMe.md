@@ -22,3 +22,12 @@
 [![](https://visitcount.itsvg.in/api?id=haihttt974&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">Visitors</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/NguyenTriBaoThang/count.svg?"  />
+</div>
+
+<p align="center">
+  I'm glad you found my GitHub profile!
+</p>
