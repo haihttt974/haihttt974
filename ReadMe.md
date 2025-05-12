@@ -40,6 +40,9 @@
       <a href="mailto:leduyhai090704@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
       </a>
+      <a href="https://profilehailun479.blogspot.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white" alt="Blogger">
+      </a>
     </p>
   </div>
 
