@@ -34,9 +34,9 @@
 <!-- Flex Layout đẹp -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px 0;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=haihttt974&theme=tokyonight&hide_border=false&show_icons=true&count_private=true" height="200" style="border-radius: 8px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haihttt974&theme=tokyonight&hide_border=false&show_icons=true&count_private=true" height="180" style="border-radius: 10px;" />
   
-  <img src="https://nirzak-streak-stats.vercel.app/?user=haihttt974&theme=tokyonight&hide_border=false" height="200" style="border-radius: 8px;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=haihttt974&theme=tokyonight&hide_border=false" height="180" style="border-radius: 10px;" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haihttt974&theme=tokyonight&hide_border=false&layout=compact" height="200" style="border-radius: 10px;" />
 
