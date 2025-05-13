@@ -1,10 +1,10 @@
 ### 💫 Hi
 <p align="justify">
-✏ I am Lê Duy Hải, a skilled Developer hailing from tech community of Vietnam.
+✏ I’m Lê Duy Hải – a passionate developer specializing in Information Systems, part of the broader IT field.
 </p>
 
 <p align="justify">
-🚀 My expertise lies in pivotal domains such as Databases, Server-side technology, and DevOps, where I thrive in creating robust and efficient solutions.
+🚀 My expertise lies in Databases, Server-side technologies, and DevOps, where I focus on building scalable and reliable solutions that serve real-world needs.
 </p>
 
 <p align="justify">
