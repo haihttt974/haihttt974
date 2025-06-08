@@ -1,19 +1,5 @@
 ### 💫 Hi
-<p align="justify">
-✏ I’m Lê Duy Hải – a passionate developer specializing in Information Systems, part of the broader IT field.
-</p>
-
-<p align="justify">
-🚀 My expertise lies in Databases, Server-side technologies, and DevOps, where I focus on building scalable and reliable solutions that serve real-world needs.
-</p>
-
-<p align="justify">
-💻 You can delve into the depths of my coding journey on GitHub, where I maintain an active profile showcasing a diverse range of projects. Feel free to explore the innovative solutions and coding marvels I've crafted over time.
-</p>
-
-<p align="justify">
-🌐 I possess a profound understanding of various subjects, encompassing Databases, C/C++, and .NET Core. Whether you're seeking insights, have inquiries, or need assistance, I'm here to help. Don't hesitate to reach out and let's embark on a collaborative journey towards technological excellence!
-</p>
+<p align="justify"> ✏ I’m Lê Duy Hải – a passionate developer specializing in Information Systems, part of the broader IT field. </p> <p align="justify"> 🚀 My expertise lies in Databases, Server-side technologies, and DevOps, where I focus on building scalable and reliable solutions that serve real-world needs. </p> <p align="justify"> 💻 You can delve into the depths of my coding journey on GitHub, where I maintain an active profile showcasing a diverse range of projects. Feel free to explore the innovative solutions and coding marvels I've crafted over time. </p> <p align="justify"> 🌐 I possess a profound understanding of various subjects, encompassing Databases, C/C++, and .NET Core. Whether you're seeking insights, have inquiries, or need assistance, I'm here to help. Let's embark on a collaborative journey towards technological excellence! </p> <p align="justify"> 🎧 In my free time, I enjoy listening to music, coding, exploring new technologies, and occasionally gaming to unwind. </p> <p align="justify"> 📘 Besides software development, I also work as a math tutor, helping students build strong foundations and problem-solving skills. </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
