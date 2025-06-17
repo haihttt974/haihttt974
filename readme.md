@@ -34,7 +34,7 @@
 
   <!-- Cột bên phải: hình động -->
   <div style="flex: 1; text-align: right;">
-    <img src="https://i.pinimg.com/originals/ff/1b/dd/ff1bdd15cd7e6a3cfe7c8cd9ea7152ff.gif" width="45%" />
+    <img src="https://i.pinimg.com/originals/ff/1b/dd/ff1bdd15cd7e6a3cfe7c8cd9ea7152ff.gif" width="100%" />
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
   </div>
 </div>
