@@ -1,4 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
+<img src="https://camo.githubusercontent.com/975e83772fafda9aa0dba3317481d11d040104e52ded9f212839c178d2d36e8b/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d686561646572" width="100%" />
 
 ### 💫 Hi
 <p align="justify"> ✏ I’m Lê Duy Hải – a passionate developer specializing in Information Systems, part of the broader IT field. </p> <p align="justify"> 🚀 My expertise lies in Databases, Server-side technologies, and DevOps, where I focus on building scalable and reliable solutions that serve real-world needs. </p> <p align="justify"> 💻 You can delve into the depths of my coding journey on GitHub, where I maintain an active profile showcasing a diverse range of projects. Feel free to explore the innovative solutions and coding marvels I've crafted over time. </p> <p align="justify"> 🌐 I possess a profound understanding of various subjects, encompassing Databases, C/C++, and .NET Core. Whether you're seeking insights, have inquiries, or need assistance, I'm here to help. Let's embark on a collaborative journey towards technological excellence! </p> <p align="justify"> 🎧 In my free time, I enjoy listening to music, coding, exploring new technologies, and occasionally gaming to unwind. </p> <p align="justify"> 📘 Besides software development, I also work as a math tutor, helping students build strong foundations and problem-solving skills. </p>
@@ -104,8 +105,11 @@
 <p align="center">
   I'm glad you found my GitHub profile!
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://camo.githubusercontent.com/ff1d4eb768b74fa335491dd8a7e87d95017665c1570e5a8828fddfdb728da450/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" width="100%" />
+
 <!--
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 <img src="https://i.pinimg.com/originals/a5/9d/81/a59d81ccdc21c5843f20fb7f78f0c1ca.gif" width="100%" />
 <img src="https://i.pinimg.com/originals/e0/41/82/e04182f6094f2764001c1df50b6a2971.gif" width="100%" />
  -->
