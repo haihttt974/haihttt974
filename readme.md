@@ -23,7 +23,7 @@
       <a href="https://facebook.com/haiit.974">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
       </a>
-      <a href="https://instagram.com/duyhai_le">
+      <a href="https://instagram.com/haiit.974">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
       </a>
       <a href="https://linkedin.com/in/haild" target="_blank">
